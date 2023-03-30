@@ -15,7 +15,7 @@ Add
 
 ```bash
 
-flutter_spinning_wheel : ^lastest_version
+kbspinningwheel : ^lastest_version
 
 ```
 
@@ -111,7 +111,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_spinning_wheel/flutter_spinning_wheel.dart';
+import 'package:kbspinningwheel/kbspinningwheel.dart';
 
 void main() {
   SystemChrome.setEnabledSystemUIOverlays([]);
